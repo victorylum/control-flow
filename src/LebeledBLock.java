@@ -4,7 +4,7 @@ public class LebeledBLock {
         Li:
         {
             System.out.println("Begin");
-            if (a==7);
+            if (a==15);
            System.out.println("End");
            break Li;
         }
